@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: darthbeep.github.io/sitemap.xml 
+Sitemap: http://darthbeep.github.io/sitemap.xml 
