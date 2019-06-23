@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://darthbeep.github.io/blog/2019/05/25/my-first-post/</loc>
-<lastmod>2019-05-25T19:54:53-04:00</lastmod>
-</url>
-<url>
-<loc>http://darthbeep.github.io/blog/2012/07/22/intro/</loc>
-<lastmod>2012-07-22T08:23:00-04:00</lastmod>
+<loc>http://darthbeep.github.io/blog/2019/06/22/how-do-linux-gestures-work-part-i-before-you-install/</loc>
+<lastmod>2019-06-22T23:52:26-04:00</lastmod>
 </url>
 <url>
 <loc>http://darthbeep.github.io/blog/archives/</loc>
@@ -18,12 +14,15 @@
 <loc>http://darthbeep.github.io/about/</loc>
 </url>
 <url>
-<loc>http://darthbeep.github.io/blog/categories/self/</loc>
+<loc>http://darthbeep.github.io/blog/categories/libinput-gestures/</loc>
 </url>
 <url>
-<loc>http://darthbeep.github.io/blog/categories/test/</loc>
+<loc>http://darthbeep.github.io/blog/categories/gestures/</loc>
 </url>
 <url>
-<loc>http://darthbeep.github.io/blog/categories/post/</loc>
+<loc>http://darthbeep.github.io/blog/categories/markdown/</loc>
+</url>
+<url>
+<loc>http://darthbeep.github.io/blog/categories/groups/</loc>
 </url>
 </urlset>
